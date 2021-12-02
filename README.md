@@ -1,3 +1,3 @@
-#Main Header
+#MainHeader
 
 Some Description.
